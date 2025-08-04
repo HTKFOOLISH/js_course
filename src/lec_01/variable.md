@@ -3,6 +3,7 @@
 ## Mục lục
 
 - [Variable](#variable)
+  - [Mục lục](#mục-lục)
   - [Giới thiệu](#giới-thiệu)
   - [const](#const)
   - [let vs var](#let-vs-var)

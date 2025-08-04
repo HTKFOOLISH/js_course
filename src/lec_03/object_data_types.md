@@ -4,10 +4,6 @@
 
 - [Primitive Data Type](#primitive-data-type)
   - [Mục Lục](#mục-lục)
-  - [Định nghĩa](#định-nghĩa)
-  - [Các Primitive Data Types (**Kiểu dữ liệu nguyên thuỷ**) trong JavaScript](#các-primitive-data-types-kiểu-dữ-liệu-nguyên-thuỷ-trong-javascript)
-  - [Kiểm tra kiểu dữ liệu](#kiểm-tra-kiểu-dữ-liệu)
-  - [Chuyển đổi / Ép kiểu](#chuyển-đổi--ép-kiểu)
 
 ## Định nghĩa
 
