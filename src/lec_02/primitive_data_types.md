@@ -8,6 +8,7 @@
   - [Các Primitive Data Types (**Kiểu dữ liệu nguyên thuỷ**) trong JavaScript](#các-primitive-data-types-kiểu-dữ-liệu-nguyên-thuỷ-trong-javascript)
   - [Kiểm tra kiểu dữ liệu](#kiểm-tra-kiểu-dữ-liệu)
   - [Chuyển đổi / Ép kiểu](#chuyển-đổi--ép-kiểu)
+  - [Cấu trúc source code](#cấu-trúc-source-code)
 
 ## Định nghĩa
 
@@ -100,4 +101,17 @@ console.log(convertedInvalid); // NaN (Not a Number)
 let booleanString = "true";
 let convertedBoolean = Boolean(booleanString);
 console.log(convertedBoolean); // true (non-empty string is truthy)
+```
+
+## Cấu trúc source code
+
+```
+js_course/
+├─ src/
+│  ├─ lec_01/
+│  └─ lec_02/
+│     ├─ index_02.html
+│     ├─ script_02.js
+│     └─ primitive_data_types.md
+└─ README.md
 ```
