@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        font-family: Roboto, Arial, sans-serif;
+      }
+
+      h1 {
+        font-weight: 900;
+        text-align: center;
+      }
+
+      hr {
+        border: 5px solid rgb(0, 140, 255);
+        border-radius: 5px;
+        width: 70%;
+      }
+
+      tr,
+      th,
+      td {
+        border: 1px solid black;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Conditional Statement</h1>
+    <hr />
+    <table
+      style="
+        width: 950px;
+        height: 300px;
+        margin: 20px auto;
+        border: 1px solid black;
+        border-collapse: collapse;
+      "
+    >
+      <tr style="background-color: gray; color: black">
+        <th>Câu điều kiện</th>
+        <th>Mô tả</th>
+      </tr>
+      <tr>
+        <th>if, if-else, else if</th>
+        <th>
+          Câu điều kiện if else này thực thi theo từng khối if, else if hoặc là
+          else.
+        </th>
+      </tr>
+      <tr>
+        <th>Switch case</th>
+        <th>
+          Thực thi theo từng case riêng lẻ, phù hợp với câu điều kiện có nhiều
+          trường hợp (từ 3 trở lên).
+        </th>
+      </tr>
+      <tr>
+        <th>Ternary code</th>
+        <th>
+          Toán tử ba ngôi, dạng rút gọn của if else, dùng cho các điều kiện đơn
+          giản (không cái này thì cái kia).
+        </th>
+      </tr>
+      <tr>
+        <th>Nested if...else</th>
+        <th>Cấu trúc điều kiện lồng nhau.</th>
+      </tr>
+    </table>
+    <hr />
+    <script src="./js/if-else.js"></script>
+    <script src="./js/switch_case.js"></script>
+    <script src="./js/ternary.js"></script>
+    <script src="./js/nested_if-else.js"></script>
+  </body>
+</html>
