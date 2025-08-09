@@ -1,15 +1,18 @@
-# Primitive Data Type
+# Object Data Type
 
 ## Mục Lục
 
-- [Primitive Data Type](#primitive-data-type)
+- [Object Data Type](#object-data-type)
   - [Mục Lục](#mục-lục)
+  - [Định nghĩa](#định-nghĩa)
+  - [Các Object Data Types (**Kiểu dữ liệu tham chiếu**) trong JavaScript](#các-object-data-types-kiểu-dữ-liệu-tham-chiếu-trong-javascript)
 
 ## Định nghĩa
 
-Là các kiểu dữ liệu cơ bản, không có các phương thức (**methods**) cũng như thuộc tính (**attributes**), và được lưu trữ trực tiếp giá trị vào vùng nhớ của biến.
+- Dữ liệu không được lưu trực tiếp vào biến.
+- Các biến chứa địa chỉ tham chiếu trong bộ nhớ.
 
-## Các Primitive Data Types (**Kiểu dữ liệu nguyên thuỷ**) trong JavaScript
+## Các Object Data Types (**Kiểu dữ liệu tham chiếu**) trong JavaScript
 
 Có 7 kiểu dữ liệu:
 
@@ -20,80 +23,52 @@ Có 7 kiểu dữ liệu:
     <th>Note</th>
   </tr>
   <tr>
-    <td>Number</td>
-    <td>10; 3.14</td>
-    <td>Gồm số nguyên, số thực</td>
+    <td>Object</td>
+    <td>{name: "HTKFoolish"}</td>
+    <td>Dạng key-value</td>
   </tr>
   <tr>
-    <td>String</td>
-    <td>HTKFOOLISH</td>
-    <td>Chuỗi ký tự nằm trong dấu nháy đơn, nháy kép hoặc dấu nháy ngược (<strong>backtick</strong>)</td>
+    <td>Array</td>
+    <td>[1, 2, 3, "js", true, null]</td>
+    <td>Lưu trữ danh sách các phần tử</td>
   </tr>
   <tr>
-    <td>BigInt</td>
-    <td>123n</td>
-    <td>Sử dụng cho các số rất lớn, chữ cái <strong>n</strong> ở đuôi để định nghĩa. Giới hạn của kiểu dữ liệu: [-(2<sup>53</sup>-1), (2<sup>53</sup>-1)]
-    </td>
+    <td>Function</td>
+    <td>function() {}</td>
+    <td>Hàm sử dụng để tạo chức năng nào đó (ví dụ tính tổng hai số)</td>
   </tr>
   <tr>
-    <td>Boolean</td>
-    <td>true, false</td>
-    <td>
-      <p style="margin:2px 0">- Kiểu dữ liệu logic</p>
-      <p style="margin:2px 0">- Chỉ có hai giá trị</p>
-    </td>
+    <td>Date</td>
+    <td>new Date()</td>
+    <td>Xử lý thời gian, ngày tháng</td>
   </tr>
   <tr>
-    <td>Undefined</td>
-    <td>undefined</td>
-    <td>Khai báo biến nhưng không gán giá trị</td>
+    <td>RegExp</td>
+    <td>/abc/</td>
+    <td>Biểu thức chính quy</td>
   </tr>
   <tr>
-    <td>Null</td>
-    <td>null</td>
-    <td>
-      <p style="margin:2px 0">- Khai báo biến với giá trị là <strong>null</strong></p>
-      <p style="margin:2px 0">- Ám chỉ giá trị của biến là "<strong>empty/nothing</strong>"</p>
-    </td>
+    <td>Map</td>
+    <td>new Map()</td>
+    <td>Dạng key-value</td>
   </tr>
   <tr>
-    <td>Symbol</td>
-    <td>Symbol("id")</td>
-    <td>Sử dụng để tạo giá trị duy nhất</td>
+    <td>Set</td>
+    <td>new Set()</td>
+    <td>Lưu giá trị duy nhất không trùng lặp</td>
   </tr>
 </table>
 
-## Kiểm tra kiểu dữ liệu
+## Source code
 
-Sử dụng `type of` keywork
-
-Ví dụ:
-
-```js
-console.log(103); // number
-console.log("HTKFoolish"); // string
 ```
-
-## Chuyển đổi / Ép kiểu
-
-Gọi là **Type Conversion** (ép kiểu)
-
-Xem một số ví dụ dưới đây
-
-```js
-let numString = "123";
-let convertedNumber = Number(numString);
-console.log(convertedNumber); // 123
-```
-
-```js
-let invalidString = "abc";
-let convertedInvalid = Number(invalidString);
-console.log(convertedInvalid); // NaN (Not a Number)
-```
-
-```js
-let booleanString = "true";
-let convertedBoolean = Boolean(booleanString);
-console.log(convertedBoolean); // true (non-empty string is truthy)
+js_course/
+├─ src/
+│  ├─ lec_01/
+│  ├─ lec_02/
+│  └─ lec_03/
+│     ├─ index_03.html
+│     ├─ script_03.js
+│     └─ object_data_types.md
+└─ README.md
 ```

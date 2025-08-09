@@ -6,3 +6,4 @@
   - [Mục Lục](#mục-lục)
     - [Variable - Biến trong JavaScript](./src/lec_01/variable.md)
     - [Primitive Data Types - Kiểu dữ liệu nguyên thuỷ](./src/lec_02/primitive_data_types.md)
+    - [Object Data Types - Kiểu dữ liệu tham chiếu](./src/lec_03/object_data_types.md)
