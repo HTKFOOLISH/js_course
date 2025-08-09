@@ -171,9 +171,10 @@ js_course/
 ├─ src/
 │  ├─ lec_01/
 │  ├─ lec_02/
-│  └─ lec_03/
-│     ├─ index_03.html
-│     ├─ script_03.js
+│  ├─ lec_03/
+│  └─ lec_04/
+│     ├─ index_04.html
+│     ├─ script_04.js
 │     └─ object_data_types.md
 └─ README.md
 ```
