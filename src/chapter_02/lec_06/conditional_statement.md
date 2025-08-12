@@ -161,19 +161,15 @@ if (weather === "sunny") {
 ```
 js_course/
 ├─ src/
-│  ├─ lab_01/
-│  ├─ lec_01/
-│  ├─ lec_02/
-│  ├─ lec_03/
-│  ├─ lec_04/
-│  ├─ lec_05/
-│  └─ lec_06/
-│     ├─ index_06.html
-│     ├─ conditional_statement.md
-│     └─ js/
-│        ├─ if-else.js
-│        ├─ switch_case.js
-│        ├─ ternary.js
-│        └─ nested_if-else.js
+│  ├─ chapter_01/
+│  └─ chapter_02/
+│         └─ lec_06/
+│             ├─ index_06.html
+│             ├─ conditional_statement.md
+│             └─ js/
+│               ├─ if-else.js
+│               ├─ switch_case.js
+│               ├─ ternary.js
+│               └─ nested_if-else.js
 └─ README.md
 ```
