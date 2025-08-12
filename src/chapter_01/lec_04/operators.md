@@ -7,6 +7,7 @@
   - [Arithmetic Operators (Toán tử số học)](#arithmetic-operators-toán-tử-số-học)
   - [Comparison Operators (Toán tử so sánh)](#comparison-operators-toán-tử-so-sánh)
   - [Logical Operators (Toán tử logic)](#logical-operators-toán-tử-logic)
+  - [Source code](#source-code)
 
 ## Arithmetic Operators (Toán tử số học)
 
@@ -169,12 +170,13 @@
 ```
 js_course/
 ├─ src/
-│  ├─ lec_01/
-│  ├─ lec_02/
-│  ├─ lec_03/
-│  └─ lec_04/
-│     ├─ index_04.html
-│     ├─ script_04.js
-│     └─ object_data_types.md
+│  └─ chapter_01/
+│         ├─ lec_01/
+│         ├─ lec_02/
+│         ├─ lec_03/
+│         └─ lec_04/
+│             ├─ index_04.html
+│             ├─ script_04.js
+│             └─ operators.md
 └─ README.md
 ```

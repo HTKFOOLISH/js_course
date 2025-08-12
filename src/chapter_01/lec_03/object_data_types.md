@@ -6,6 +6,7 @@
   - [Mục Lục](#mục-lục)
   - [Định nghĩa](#định-nghĩa)
   - [Các Object Data Types (**Kiểu dữ liệu tham chiếu**) trong JavaScript](#các-object-data-types-kiểu-dữ-liệu-tham-chiếu-trong-javascript)
+  - [Source code](#source-code)
 
 ## Định nghĩa
 
@@ -64,11 +65,12 @@ Có 7 kiểu dữ liệu:
 ```
 js_course/
 ├─ src/
-│  ├─ lec_01/
-│  ├─ lec_02/
-│  └─ lec_03/
-│     ├─ index_03.html
-│     ├─ script_03.js
-│     └─ object_data_types.md
+│  └─ chapter_01/
+│         ├─ lec_01/
+│         ├─ lec_02/
+│         └─ lec_03/
+│             ├─ index_03.html
+│             ├─ script_03.js
+│             └─ object_data_types.md
 └─ README.md
 ```

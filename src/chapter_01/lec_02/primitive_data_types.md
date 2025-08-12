@@ -108,10 +108,11 @@ console.log(convertedBoolean); // true (non-empty string is truthy)
 ```
 js_course/
 ├─ src/
-│  ├─ lec_01/
-│  └─ lec_02/
-│     ├─ index_02.html
-│     ├─ script_02.js
-│     └─ primitive_data_types.md
+│  └─ chapter_01/
+│         ├─ lec_01/
+│         └─ lec_02/
+│             ├─ index_02.html
+│             ├─ script_02.js
+│             └─ primitive_data_types.md
 └─ README.md
 ```

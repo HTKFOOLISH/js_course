@@ -64,13 +64,14 @@ Ví dụ trên bao gồm cả hai **tips** (sử dụng dấu phẩy và tô mà
 ```
 js_course/
 ├─ src/
-│  ├─ lec_01/
-│  ├─ lec_02/
-│  ├─ lec_03/
-│  ├─ lec_04/
-│  └─ lec_05/
-│     ├─ index_05.html
-│     ├─ script_05.js
-│     └─ console_statement.md
+│  └─ chapter_01/
+│         ├─ lec_01/
+│         ├─ lec_02/
+│         ├─ lec_03/
+│         ├─ lec_03/
+│         └─ lec_05/
+│             ├─ index_05.html
+│             ├─ script_05.js
+│             └─ console_statement.md
 └─ README.md
 ```

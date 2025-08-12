@@ -124,10 +124,11 @@ for (var j = 0; j < 3; j++) {
 ```
 js_course/
 ├─ src/
-│  └─ lec_01/
-│     ├─ index_01.html
-│     ├─ script_01.js
-│     └─ variable.md
+│  └─ chapter_01/
+│         └─ lec_01/
+│             ├─ index_01.html
+│             ├─ script_01.js
+│             └─ variable.md
 └─ README.md
 ```
 
