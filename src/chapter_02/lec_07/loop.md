@@ -142,7 +142,7 @@ js_course/
 ├─ src/
 │  ├─ chapter_01/
 │  └─ chapter_02/
-│         └─ lec_06/
+│         ├─ lec_06/
 │         └─ lec_07/
 │             ├─ index_07.html
 │             ├─ loop.md
