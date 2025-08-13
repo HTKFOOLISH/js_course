@@ -13,3 +13,4 @@
       - [Lab 01](./src/chapter_01//lab_01/lab_01.md)
     - [Chapter 2 - Cấu trúc điều khiển & Hàm](src/chapter_02/conditionalStatement_and_function.md)
       - [Conditional statement - Câu lệnh điều kiện](./src/chapter_02/lec_06/conditional_statement.md)
+      - [Loop - Vòng lặp](src/chapter_02/lec_07/loop.md)
