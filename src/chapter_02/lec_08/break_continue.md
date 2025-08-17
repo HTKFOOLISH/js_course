@@ -2,6 +2,13 @@
 
 ## Mục lục
 
+- [Break, Continue](#break-continue)
+  - [Mục lục](#mục-lục)
+  - [Định nghĩa](#định-nghĩa)
+  - [Break](#break)
+  - [Continue](#continue)
+  - [Cấu trúc source code](#cấu-trúc-source-code)
+
 ## Định nghĩa
 
 Sử dụng để điều khiển luồng code thực thi trong một vòng lặp. Cụ thể:

@@ -15,3 +15,4 @@
       - [Conditional statement - Câu lệnh điều kiện](./src/chapter_02/lec_06/conditional_statement.md)
       - [Loop - Vòng lặp](src/chapter_02/lec_07/loop.md)
       - [Break & Continue - Câu lệnh điều khiển luồng](src/chapter_02/lec_08/break_continue.md)
+      - [Function - Hàm](src/chapter_02/lec_09/function.md)
