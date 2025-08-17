@@ -30,4 +30,8 @@
  ┃ ┣ [📜image-1.png](lec_09/image-1.png)  
  ┃ ┣ [📜image.png](lec_09/image.png)  
  ┃ ┗ [📜index_09.html](lec_09/index_09.html)  
+ ┣ [📂lab_02](lab_02/)  
+ ┃ ┣ [📜index_lab_02.html](lab_02/index_lab_02.html)  
+ ┃ ┣ [📜lab_02.md](lab_02/lab_02.md)  
+ ┃ ┗ [📜script_lab_02.js](lab_02/script_lab_02.js)  
  ┗ [📜conditionalStatement_and_function.md](conditionalStatement_and_function.md)
