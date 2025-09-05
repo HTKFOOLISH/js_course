@@ -2,6 +2,17 @@
 
 ## Mục lục
 
+- [Định nghĩa](#định-nghĩa)
+- [Khai báo mảng](#khai-báo-mảng)
+- [Truy cập từng phần tử](#truy-cập-từng-phần-tử)
+- [Chỉnh sửa phần tử trong mảng](#chỉnh-sửa-phần-tử-trong-mảng)
+- [Thêm, xoá](#thêm-xoá)
+- [Duyệt mảng với vòng lặp và `forEach`](#duyệt-mảng-với-vòng-lặp-và-foreach)
+  - [Sử dụng vòng lặp `for`](#sử-dụng-vòng-lặp-for)
+  - [Sử dụng phương thức `forEach`](#sử-dụng-phương-thức-foreach)
+- [Biến đổi mảng với `map()`](#biến-đổi-mảng-với-map)
+- [Lọc phần tử mảng với `filter()`](#lọc-phần-tử-mảng-với-filter)
+
 ## Định nghĩa
 
 **Array** (Mảng) là một kiểu dữ liệu đặc biệt trong JavaScript cho phép lưu trữ tập hợp các giá trị trong một tên biến duy nhất.
