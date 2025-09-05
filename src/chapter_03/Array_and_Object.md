@@ -1,0 +1,6 @@
+[📦chapter_03](../chapter_03/)  
+ ┣ [📂lec_10](lec_10/)  
+ ┃ ┣ [📜array.md](lec_10/array.md)  
+ ┃ ┣ [📜index_10.html](lec_10/index_10.html)  
+ ┃ ┗ [📜script_10.js](lec_10/script_10.js)  
+ ┗ [📜Array_and_Object.md](Array_and_Object.md)
