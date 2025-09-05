@@ -3,4 +3,8 @@
  ┃ ┣ [📜array.md](lec_10/array.md)  
  ┃ ┣ [📜index_10.html](lec_10/index_10.html)  
  ┃ ┗ [📜script_10.js](lec_10/script_10.js)  
+ ┣ [📂lec_11](lec_11/)  
+ ┃ ┣ [📜index_11.html](lec_11/index_11.html)  
+ ┃ ┣ [📜object.md](lec_11/object.md)  
+ ┃ ┗ [📜script_11.js](lec_11/script_11.js)  
  ┗ [📜Array_and_Object.md](Array_and_Object.md)
