@@ -1,4 +1,8 @@
 [📦chapter_03](../chapter_03/)  
+ ┣ [📂lab_03](lab_03/)  
+ ┃ ┣ [📜index_lab_03.html](lab_03/index_lab_03.html)  
+ ┃ ┣ [📜lab_03.md](lab_03/lab_03.md)  
+ ┃ ┗ [📜script_lab_03.js](lab_03/script_lab_03.js)  
  ┣ [📂lec_10](lec_10/)  
  ┃ ┣ [📜array.md](lec_10/array.md)  
  ┃ ┣ [📜index_10.html](lec_10/index_10.html)  
