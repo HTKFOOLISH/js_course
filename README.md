@@ -20,3 +20,4 @@
     - [Chapter 3 - Array và Object](src/chapter_03/Array_and_Object.md)
       - [Array - Mảng](src/chapter_03/lec_10/array.md)
       - [Object - Đối tượng](src/chapter_03/lec_11/object.md)
+      - [Lab 03](src/chapter_03/lab_03/lab_03.md)
