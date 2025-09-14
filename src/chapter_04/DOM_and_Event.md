@@ -1,0 +1,7 @@
+[📦chapter_04](../chapter_04/)  
+ ┣ [📂lec_12](lec_12/)  
+ ┃ ┣ [📂js](lec_12/js/)  
+ ┃ ┃ ┗ [📜script_12.js](lec_12/js/script_12.js)  
+ ┃ ┣ [📜DOM.md](lec_12/DOM.md)  
+ ┃ ┗ [📜index_12.html](lec_12/index_12.html)  
+ ┗ [📜DOM_and_Event.md](DOM_and_Event.md)

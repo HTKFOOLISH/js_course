@@ -21,3 +21,5 @@
       - [Array - Mảng](src/chapter_03/lec_10/array.md)
       - [Object - Đối tượng](src/chapter_03/lec_11/object.md)
       - [Lab 03](src/chapter_03/lab_03/lab_03.md)
+    - [Chapter 4 - DOM & Sự kiện (Evnet)](src/chapter_04/DOM_and_Event.md)
+      - [DOM](src/chapter_04/lec_12/DOM.md)
