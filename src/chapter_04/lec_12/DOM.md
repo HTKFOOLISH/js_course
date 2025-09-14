@@ -40,7 +40,7 @@ Hãy xem ví dụ dưới đây:
 
 Vì quan hệ cha–con này xếp theo cấu trúc phân cấp, giống như cây thư mục, nên gọi là cây DOM và có dạng giống ảnh bên dưới.
 
-![alt text](../../../images/image.png)
+<img width="1200" height="1242" alt="image" src="https://github.com/user-attachments/assets/f7c26c23-8df9-48b6-bce3-26fb11881cd7" />
 
 ## Truy cập phần tử HTML trong DOM
 
