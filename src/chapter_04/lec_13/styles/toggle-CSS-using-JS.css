@@ -1,0 +1,10 @@
+/* 2. Using classList */
+.highlight {
+  background-color: yellow;
+  color: red;
+}
+
+.change-width-height {
+  width: 200px;
+  height: 100px;
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <!-- font style -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- CSS style -->
+    <link rel="stylesheet" href="styles/general.css" />
+    <link rel="stylesheet" href="styles/btn-style.css" />
+    <link rel="stylesheet" href="styles/toggle-CSS-using-JS.css" />
+  </head>
+  <body>
+    <!-- 0. Tile -->
+    <div id="title">
+      <h1>DOM events</h1>
+    </div>
+
+    <hr />
+
+    <!-- 1. addEventListener() Method -->
+    <div class="btn-container">
+      <h2>1. addEventListener() Method</h2>
+      <button class="btn" id="myBtn">Click me</button>
+    </div>
+
+    <hr />
+
+    <!-- 2. Toggle the content in HTML tag using innerText and innerHTML -->
+    <div class="btn-container">
+      <h2>2. innerText and innerHTML</h2>
+      <p><strong>Click the button to change the text below!</strong></p>
+      <button class="btn" id="myBtn2">Click me</button>
+      <p id="demoInnerText">Hello <strong>User</strong></p>
+    </div>
+
+    <hr />
+
+    <!-- 3. toggle CSS using JS -->
+    <div class="btn-container">
+      <h2>3. Toggle CSS using JS</h2>
+      <p id="contentTagP">My Content</p>
+
+      <!-- 3.1. style method -->
+      <h3>3.1. style method</h3>
+      <p>
+        Click the button below to change the color and background color of the
+        text or click again to return.
+      </p>
+      <div>
+        <button class="btn" id="btn1">Click to change!</button>
+      </div>
+
+      <!-- 3.2. classList -->
+      <h3>3.2. classList</h3>
+      <p>
+        Click the button below to change the color and background color of the
+        text or click again to return.
+      </p>
+      <button class="btn" id="btn2">Click to change!</button>
+
+      <!-- 3.3. <style> tag or stylesheet -->
+      <h3>3.3. style tag or stylesheet</h3>
+      <p>Subcontent</p>
+      <button class="btn" id="btn3">Click to change!</button>
+
+      <!-- 3.3.1. Add new rule -->
+      <h4>3.3.1. Add new rule</h4>
+      <p>Subcontent</p>
+      <button class="btn" id="btn4">Click to change!</button>
+
+      <!-- 3.3.2. Access an available stylesheet -->
+      <h4>3.3.2. Access an available stylesheet</h4>
+      <p>Subcontent</p>
+      <button class="btn" id="btn5">Click to change!</button>
+    </div>
+
+    <hr />
+
+    <script src="js/script_13.js"></script>
+  </body>
+</html>
